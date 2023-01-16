@@ -1,10 +1,11 @@
-value = 7
+bravo = 3
+b = B()
 
 
-class A:
-    value = 5
+class B:
+    bravo = 5
+    print("Inside class B")
 
 
-a = A()
-a.value = 3
-print(value)
+c = B()
+print(b.bravo)

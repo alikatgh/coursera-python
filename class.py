@@ -21,3 +21,6 @@ print(my_instance.call_super_class())
 # myc = MyClass()
 # print(myc.a)
 # print(myc.hello())
+
+class SomeClass:
+    kjdf
